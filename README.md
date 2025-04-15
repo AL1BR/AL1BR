@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ BEROMAN ALI 
+- 👋 Hi, I’m @ ALI BEROMAN 
 - 👀 I’m interested in creating more ; travel  
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on 
